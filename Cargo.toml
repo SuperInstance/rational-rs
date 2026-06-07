@@ -1,0 +1,13 @@
+[package]
+name = "rational-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Rational number library with continued fractions, best approximation, and Farey sequences"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/rational-rs"
+keywords = ["rational", "fraction", "continued-fraction", "farey", "math"]
+categories = ["mathematics", "algorithms", "science"]
+readme = "README.md"
+
+[dependencies]
